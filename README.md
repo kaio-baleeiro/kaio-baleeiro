@@ -1,16 +1,13 @@
-### Hi there 👋
+## Salveee!! Sou o Kaio 😁
 
-<!--
-**kaio-baleeiro/kaio-baleeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com DevOps
+- 🌱 Atualmente estou estudando os serviços que a AWS oferece
+- 📫 Me manda um email em: kaiobaleeiro18@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href='https://github.com/kaio-baleeiro'>
+    <img height='180px'  src='https://github-readme-stats.vercel.app/api?username=kaio-baleeiro&scount_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue-dark&locale=pt-br'>
+    <img height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-baleeiro&layout=compact&theme=vue-dark&hide_border=true&locale=pt-br'>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
