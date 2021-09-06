@@ -1,4 +1,4 @@
-## Salveee!! Sou o Kaio 😁
+## Oláá!! Eu sou o Kaio 😁
 
 - 🔭 Hoje trabalho com DevOps
 - 🌱 Atualmente estou estudando os serviços que a AWS oferece
