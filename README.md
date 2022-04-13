@@ -1,8 +1,8 @@
 ## Oláá!! Eu sou o Kaio 😁
 
-- 🔭 Hoje trabalho com DevOps
-- 🌱 Atualmente estou estudando os serviços que a AWS oferece
-- 📫 Me manda um email em: kaiobaleeiro18@gmail.com
+- 🔭 Atualmente sou Analista de Sistemas Júnior em DevOps
+- 🌱 Tenho conhecimento em algumas tecnologias, dentre elas estão Terraform, AngularJS, Jenkins, e algumas outras...
+- 📫 Pode me contatar pelo email: kaiobaleeiro@gmail.com
 
 <div>
   <a href='https://github.com/kaio-baleeiro'>
