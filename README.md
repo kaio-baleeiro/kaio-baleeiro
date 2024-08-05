@@ -1,8 +1,8 @@
 ## Oláá!! Eu sou o Kaio 😁
 
-- 🔭 Atualmente sou Analista de Sistemas Júnior em DevOps
-- 🌱 Tenho conhecimento em algumas tecnologias, dentre elas estão Terraform, AngularJS, Jenkins, e algumas outras...
-- 📫 Pode me contatar pelo email: kaiobaleeiro@gmail.com
+- 🔭 Atualmente sou um contribuinte do mundo DevOps
+- 🌱 Tenho conhecimento em algumas tecnologias, dentre elas estão Terraform, AWS, Azure, GitHub, Ansible, Jenkins, e algumas outras...
+- 📫 Pode me contatar pelo linkendin: https://www.linkedin.com/in/kaio-baleeiro/
 
 <div>
   <a href='https://github.com/kaio-baleeiro'>
